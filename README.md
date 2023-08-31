@@ -8,3 +8,5 @@ Any number of users can authenticate themselves using jwt token.
 ![Registering New User](https://github.com/KrishnayMishra/Fashion-Finesse/assets/86675294/7471d72f-8e78-4bdc-982b-6ed513508b31)
 ![Authenticating New User](https://github.com/KrishnayMishra/Fashion-Finesse/assets/86675294/01cf2997-4677-4a07-b08e-4729e1c1042b)
 ![Database Storage](https://github.com/KrishnayMishra/Fashion-Finesse/assets/86675294/56d0b71d-b580-4e28-af21-8e2782a14f21)
+
+https://drive.google.com/file/d/1I5TrHIiwfA1tOid6nT1xcWbqSFuLwSJu/view?usp=drive_link
